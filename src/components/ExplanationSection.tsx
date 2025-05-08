@@ -13,7 +13,7 @@ import React from 'react';
 const ExplanationSection: React.FC = () => {
   const hermeticLaws = [
     {
-      title: "Mentalism",
+      title: "Mentalismo",
       principle: "O TODO é Mente; O Universo é Mental.",
       description: "Tudo que existe emerge da mente universal. Pensamentos se manifestam em realidade.",
       icon: Brain,

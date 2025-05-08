@@ -70,11 +70,11 @@ const OfferSection: React.FC = () => {
               Oferta Especial por Tempo Limitado
             </h3>
             <div className="flex justify-center items-baseline gap-4 mb-6">
-              <span className="text-mystic-200 text-lg line-through">R$ 1.997,00</span>
-              <span className="text-4xl font-cinzel text-gold">R$ 997,00</span>
+              <span className="text-mystic-200 text-lg line-through">R$ 897,00</span>
+              <span className="text-4xl font-cinzel text-gold">R$ 197,90</span>
             </div>
             <p className="text-mystic-100 mb-4">
-              ou 12x de R$ 97,00 sem juros
+              ou 12x de R$ 19,70 sem juros
             </p>
             
             <p className="text-mystic-200 mb-6">

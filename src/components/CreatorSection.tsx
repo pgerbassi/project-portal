@@ -80,7 +80,7 @@ const CreatorSection: React.FC = () => {
             
             <div className="space-y-6 text-mystic-100">
               <p>
-                Com mais de 15 anos dedicados ao estudo das tradições místicas do Antigo Egito, 
+                Com anos se dedicando ao estudos das tradições místicas da Antiguidade, 
                 Vitor Piana desenvolveu O Portal como uma ponte entre a sabedoria ancestral e o 
                 mundo moderno.
               </p>

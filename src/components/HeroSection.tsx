@@ -92,7 +92,7 @@ const HeroSection: React.FC = () => {
           variants={itemVariants}
           className="text-lg md:text-xl lg:text-2xl text-gold-light max-w-3xl mb-12"
         >
-          Desperte as leis... e transforme sua REALIDADE
+          Entenda as Leis e Transforme a sua Realidade
         </motion.h2>
 
         <motion.div
@@ -132,7 +132,7 @@ const HeroSection: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.98 }}
         >
-          INICIAR DESPERTAR
+          INICIAR
         </motion.button>
       </motion.div>
       
