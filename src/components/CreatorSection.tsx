@@ -76,7 +76,7 @@ const CreatorSection: React.FC = () => {
             transition={{ duration: 0.8 }}
           >
             <h2 className="section-title text-left">VITOR PIANA</h2>
-            <h3 className="text-gold-light text-xl mb-6">Mestre em Sabedoria Ancestral</h3>
+            <h3 className="text-gold-light text-xl mb-6"></h3>
             
             <div className="space-y-6 text-mystic-100">
               <p>
@@ -86,7 +86,7 @@ const CreatorSection: React.FC = () => {
               </p>
               
               <p>
-                Sua jornada o levou a explorar os mais profundos mistérios dos templos egípcios, 
+                Sua jornada o levou a explorar diversos conhecimentos,
                 onde descobriu técnicas transformadoras que agora compartilha com seus alunos.
               </p>
               
